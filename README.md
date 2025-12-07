@@ -95,7 +95,7 @@ Setup
 
 Clone the repository:
 
-git clone https://github.com/yourusername/order-dashboard.git
+git clone https://github.com/FebyHossam/Full_Project_Analysis_Orders/blob/main/README.md
 
 
 Open the .pbix file in Power BI Desktop
